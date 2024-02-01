@@ -4,79 +4,92 @@
       "id": 2,
       "conteudo": "E num é que funcionou? Eu sou brabo demais porra",
       "autoria": "Yooo Again",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Pior que disse mesmo",
       "autoria": "Sábio",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "Num sou mais, agora sou uma pessoa sã",
       "autoria": "Yoo",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 5,
       "conteudo": "Se eu escrever algo gigante tipo aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "autoria": "Um Doido Aí",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 6,
       "conteudo": "E agora escrever um normal",
       "autoria": "Alguém Normal",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 7,
       "conteudo": "Mas o pior é que fica feio se escrever algo grande mas não grande demais, porque daí vai ficar um tanto pra fora enquanto os outros vão ficar pra dentro, fica de olho para tu entender",
       "autoria": "Doido",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 8,
       "conteudo": "Agora pitico",
       "autoria": "Doidinho",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 9,
       "conteudo": "E um médio que seja, só para provar o meu ponto que falei no grandão lá",
       "autoria": "Meio Doido",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 10,
       "conteudo": "Mas pelo menos as colunas estão alinhadas né?",
       "autoria": "Louco",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "id": 11,
       "conteudo": "E ele disse: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatchin",
       "autoria": "-Sem Autor",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 12,
       "conteudo": "kbkbhbihbihnkb khbiboibhbb jhbj ",
       "autoria": "Um sábio",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 13,
       "conteudo": "Eu sou uma pessoa muito foda e incrível",
       "autoria": "Luquitas",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 14,
       "conteudo": "Eu sou uma pessoa incrivelmente determinada e que acha que beach tennis é absurdamente caro, vou apenas para acompanhar o Luquitas em suas aulas experimentais por esse sertão",
       "autoria": "AliceUrzeda",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     }
   ]
 }
